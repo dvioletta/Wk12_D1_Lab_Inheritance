@@ -4,8 +4,7 @@ import staff.Manager.Manager;
 
 import static org.junit.Assert.assertEquals;
 
-public
-class ManagerTest {
+public class ManagerTest {
 
     Manager manager;
 
