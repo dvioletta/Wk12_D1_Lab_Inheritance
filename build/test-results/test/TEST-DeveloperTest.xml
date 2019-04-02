@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DeveloperTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-04-02T08:47:15" hostname="Pixie.local" time="0.003">
+  <properties/>
+  <testcase name="canGetNI_number" classname="DeveloperTest" time="0.001"/>
+  <testcase name="canGetName" classname="DeveloperTest" time="0.0"/>
+  <testcase name="canGetARaise" classname="DeveloperTest" time="0.001"/>
+  <testcase name="canChangeNI_number" classname="DeveloperTest" time="0.0"/>
+  <testcase name="canGetSalary" classname="DeveloperTest" time="0.0"/>
+  <testcase name="canChangeName" classname="DeveloperTest" time="0.0"/>
+  <testcase name="canGetBonus" classname="DeveloperTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
